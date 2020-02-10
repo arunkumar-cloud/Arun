@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%="my name is" %>
+<%="my name is arun" %>
 </body>
 </html>
